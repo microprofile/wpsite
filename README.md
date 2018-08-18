@@ -6,7 +6,7 @@ The https://MicroProfile.io site has been revamped to the WordPress (WP) platfor
 
 Everyone in the community is encouraged to post blogs on MicroProfile.io. The process to submit a post is described below.
 
-NOTE: If this is the first time you're submitting a blog, please send an email to microprofile-marketing@googlegroups.com requesting to be added to site as a “contributor”.
+NOTE: If this is the first time you're submitting a blog, please send an email to microprofile-marketing@googlegroups.com requesting to be added to the site as a “contributor”.
 
 ### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
 
@@ -18,9 +18,27 @@ NOTE: If this is the first time you're submitting a blog, please send an email t
 
 4. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
-5. An admin reviews the blog post and then approves for immediate or future scheduling.  This will push post “live”. If your post needs re-working, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
+5. An admin reviews the blog post and then approves for immediate or future scheduling for going “live”. If your post needs re-working, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
-#### Criteria for approving blog posts
+### Case 2: If blog post is a redirect to another URL (post content is not hosted at WP MP.io)
+
+1. Log in to the WP [console](https://microprofile.wpengine.com/wp-admin/) and enter your WP credentials (these were in an email you received when you were added to MicroProfile.io as a "contributor")
+
+2. On the left margin of the console, click on "Posts->Add New"
+
+3. In the "Enter title here" text field of the screen "Add New Post", copy and paste the title of the existing post
+
+5. Click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
+
+6. An admin reviews the blog post and then approves for immediate or future scheduling for going “live”. If your post needs re-working, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
+
+7. Admin must click on "Tools->Redirection" on the left margin of the console
+
+8. Admin must enter the URLs in the “Source URL” and “Target URL” text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
+
+9. Admin must refresh website and test the redirect link
+
+### Criteria for approving blog posts
 
 The following are some of the criteria that an admin will use when reviewing your submitted blog post:
 
