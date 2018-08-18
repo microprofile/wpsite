@@ -34,7 +34,11 @@ NOTE: If this is the first time you're submitting a blog, please send an email t
 
 7. Admin must click on "Tools->Redirection" on the left margin of the console
 
+![alt text](wpsite/images/selectToolsRedirection.png)
+
 8. Admin must enter the URLs in the “Source URL” and “Target URL” text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
+
+![alt text](wpsite/images/enterURLsForRedirection.png)
 
 9. Admin must refresh website and test the redirect link
 
