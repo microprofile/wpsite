@@ -34,21 +34,33 @@ NOTE: If this is the first time you're submitting a blog or setting up a post on
 
 4. Paste the URL of your blog post into the text box. This allows the admins to review your post to determine eligibility for posting on MicroProfile.io.
 
-5. On the right side of the screen, select a category and add tags to the post. Tags are keywords related to the topic of your article.
+5. Paste the first three lines of your blog post right below the URL you pasted in the previous step.
 
-6. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
+6. On the right side of the screen, select a category and add tags to the post. Tags are keywords related to the topic of your article.
 
-7. An admin reviews the blog post and then approves for immediate or future scheduling for going “live”. If your post needs re-working, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
+7. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
-8. Admin must click on "Tools->Redirection" on the left margin of the console
+The next steps apply to the admin.
+
+8. As an admin, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
+
+9. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
+
+10. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
+
+11. Admin reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Admin needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
+
+12. Admin must click on "Tools->Redirection" on the left margin of the console
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/selectToolsRedirection.png)
 
-9. Admin must enter the URLs in the “Source URL” and “Target URL” text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
+12. Admin must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/enterURLsForRedirection.png)
 
-10. Admin must refresh website and test the redirect link
+13. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
+
+14. Admin must refresh website and test the redirect link
 
 ### Criteria for approving blog posts
 
