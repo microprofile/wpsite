@@ -18,7 +18,7 @@ NOTE: If this is the first time you're submitting a blog or setting up a post on
 
 4. Choose a category and enter tags on the right side of the screen in the “tags” box. (These are keywords related to the topic of your post).
 
-5. Scroll down below your post and upload an image for the Page Header Image. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. If you need help resizing image, please send to [Ryan](rstjames@tomitribe.com) for styling.
+5. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. If you need help resizing image, please send to [Ryan](rstjames@tomitribe.com) for styling.
 
 6. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
@@ -38,29 +38,31 @@ NOTE: If this is the first time you're submitting a blog or setting up a post on
 
 6. On the right side of the screen, select a category and add tags to the post. Tags are keywords related to the topic of your article.
 
-7. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
+7. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. If you need help resizing image, please send to [Ryan](rstjames@tomitribe.com) for styling.
+
+8. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
 The next steps apply to the admin.
 
-8. As an admin, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
+9. As an admin, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
 
-9. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
+10. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
 
-10. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
+11. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
 
-11. Admin reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Admin needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
+12. Admin reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Admin needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
 
-12. Admin must click on "Tools->Redirection" on the left margin of the console
+13. Admin must click on "Tools->Redirection" on the left margin of the console
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/selectToolsRedirection.png)
 
-13. Admin must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
+14. Admin must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/enterURLsForRedirection.png)
 
-14. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
+15. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
 
-15. Admin must refresh website and test the redirect link
+16. Admin must refresh website and test the redirect link
 
 ### Criteria for approving blog posts
 
