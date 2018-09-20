@@ -18,7 +18,7 @@ NOTE: If this is the first time you're submitting a blog or setting up a post on
 
 4. Choose a category and enter tags on the right side of the screen in the “tags” box. (These are keywords related to the topic of your post).
 
-5. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. If you need help resizing image, please send to [Ryan](rstjames@tomitribe.com) for styling.
+5. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results.  
 
 6. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
@@ -38,7 +38,7 @@ NOTE: If this is the first time you're submitting a blog or setting up a post on
 
 6. On the right side of the screen, select a category and add tags to the post. Tags are keywords related to the topic of your article.
 
-7. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. If you need help resizing image, please send to [Ryan](rstjames@tomitribe.com) for styling.
+7. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. 
 
 8. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
