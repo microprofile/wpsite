@@ -70,7 +70,7 @@ The following are some of the criteria that an admin will use when reviewing you
 
 * Check that post has a “Page Header Image”
 
-* The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. If you need help resizing image, please send to [Ryan](rstjames@tomitribe.com) for styling
+* The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results.
 
 * Check for grammatical errors - admin can fix this
 
