@@ -2,7 +2,7 @@
 
 The https://MicroProfile.io site has been revamped to the WordPress (WP) platform for easier use and maintenance. To provide feedback on how to improve the new site, please use the GitHub issues tab above to enter your requests/suggestions.
 
-## Admins who volunteer to make your content go into MP.Blog:
+## Admins who volunteer to make sure your content gets published: 
 
 * https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
 
