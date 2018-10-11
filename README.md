@@ -2,9 +2,9 @@
 
 The https://MicroProfile.io site has been revamped to the WordPress (WP) platform for easier use and maintenance. To provide feedback on how to improve the new site, please use the GitHub issues tab above to enter your requests/suggestions.
 
-## Admins who volunteer to get your content published: 
+### The Admins who volunteer to get your content published: 
 
-** https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
+https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
 
 ## About blog posts
 
@@ -12,11 +12,11 @@ Everyone in the community is encouraged to post blogs on MicroProfile.io. The pr
 
 NOTE: If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to microprofile-marketing@googlegroups.com requesting to be added to the site as a “contributor”.
 
-What is a WP-Contributor:
+### What is a WP-Contributor:
 
-* Contributor: is somebody who can write and manage their own posts but cannot publish them
+Contributor: is somebody who can write and manage their own posts but cannot publish them
 
-** https://codex.wordpress.org/Roles_and_Capabilities
+ https://codex.wordpress.org/Roles_and_Capabilities
 
 
 ### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
