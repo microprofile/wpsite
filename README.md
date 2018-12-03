@@ -83,6 +83,8 @@ The next steps apply to the admins.
 
 The following are some of the criteria that an admin will use when reviewing your submitted blog post:
 
+* Check that post has the author name
+
 * Check that post has a “Page Header Image”
 
 * The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results.
