@@ -10,7 +10,7 @@ https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/
 
 Everyone in the community is encouraged to post blogs on MicroProfile.io. The process to submit a post is described below.
 
-NOTE: If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to microprofile-marketing@googlegroups.com requesting to be added to the site as a “contributor”.
+NOTE: If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com requesting to be added to the site as a “contributor”.
 
 ### What is a WP-Contributor:
 
@@ -33,7 +33,9 @@ Contributor: is somebody who can write and manage their own posts but cannot pub
 
 6. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
-7. Available Admins review your blog and approval to post by reviewer or a peer admin is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
+7. Write a short email notifying the MP forum to to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com about your video or blog contribution. 
+
+8. Available Admins review your blog and approval to post by reviewer or a peer admin is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
 ### Case 2: If blog post is a redirect to another URL (post content is not hosted at WP MP.io)
 
@@ -53,7 +55,9 @@ Contributor: is somebody who can write and manage their own posts but cannot pub
 
 8. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
-The next steps apply to the admin.
+9. Write a short email notifying the MP forum to to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com about your video or blog contribution. 
+
+The next steps apply to the admins.
 
 9. As an admin, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
 
