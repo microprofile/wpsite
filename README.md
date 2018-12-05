@@ -18,7 +18,7 @@ Everyone in the community is encouraged to post blogs and videos on MicroProfile
 
 _NOTE for the new Contributor:_ If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to:
 * microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com 
-* Subject of email: *Request to be added as a WP MicroProfiler New Contributor*.
+* Subject of email: *Request to be added as a WP MicroProfiler New Author*.
 * Content of emial: Contributor's first and last name and preferred email as the content on your email request. 
 * Do keep in mind that we won't add group emails to WP MP. 
 
