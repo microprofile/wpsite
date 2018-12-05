@@ -2,21 +2,26 @@
 
 The https://MicroProfile.io site has been revamped to the WordPress (WP) platform for easier use and maintenance. To provide feedback on how to improve the new site, please use the GitHub issues tab above to enter your requests/suggestions.
 
-### The Admins who volunteer to get your videos & written content published: 
-
-https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
-
-## About blog posts
-
-Everyone in the community is encouraged to post blogs on MicroProfile.io. The process to submit a post is described below.
-
-NOTE: If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com requesting to be added to the site as a “contributor”.
-
 ### What is a WP-Contributor:
 
 Contributor: is somebody who can write and manage their own posts but cannot publish them
 
  https://codex.wordpress.org/Roles_and_Capabilities
+
+### The Admins who volunteer to get your videos & written content published: 
+
+https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
+
+## About Contributor's blog & video posts
+
+Everyone in the community is encouraged to post blogs and videos on MicroProfile.io. The process to submit a post is described below.
+
+NOTE for the new Contributor: If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com requesting to be added to the site as a “contributor”. 
+Subject of email: *Request to be added as a WP MicroProfiler New Contributor*.
+The admin/editor needs the Contributor first and last name and preferred email as the content on your email request. 
+We cannot add group emails to WP MP. 
+
+Note for the Admins: If you choose to own the incoming request from a new contributor recieved via open channels, please follow up directly on the forum to inform not only the Contributor but the other Admins or Editors that there is no need to follow up on the request. 
 
 
 ### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
