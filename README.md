@@ -22,7 +22,7 @@ _NOTE for the new Contributor:_ If this is the first time you're submitting a bl
 * Content of emial: Contributor's first and last name and preferred email as the content on your email request. 
 * Do keep in mind that we won't add group emails to WP MP. 
 
-_NOTE for the Editors:_ If you choose to own the incoming request from a new contributor recieved via open channels, please follow up directly on the forum to inform not only the Contributor but the other Admins or Editors that you have completed the task. 
+_NOTE for the Editors:_ If you choose to own the incoming request from a new contributor recieved via open channels, please follow up directly on the forum to inform not only the Contributor but the other Editors that you are owning the task and will complete the follow up. 
 
 
 ### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
