@@ -4,11 +4,11 @@ The https://MicroProfile.io site has been revamped to the WordPress (WP) platfor
 
 ### What is a WP-Contributor:
 
-Contributor: is somebody who can write and manage their own posts but cannot publish them
+Contributor: is somebody who can write and manage their own posts but *cannot* publish them
 
  https://codex.wordpress.org/Roles_and_Capabilities
 
-### The Admins who volunteer to get your videos & written content published: 
+### The Editors who volunteer to get your videos & written content published: 
 
 https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
 
@@ -18,11 +18,11 @@ Everyone in the community is encouraged to post blogs and videos on MicroProfile
 
 _NOTE for the new Contributor:_ If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to:
 * microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com 
-* Subject of email: *Request to be added as a WP MicroProfiler New Author*.
+* Subject of email: *Request to be added as a WP MicroProfiler New Contributor*.
 * Content of emial: Contributor's first and last name and preferred email as the content on your email request. 
 * Do keep in mind that we won't add group emails to WP MP. 
 
-_NOTE for the Admins:_ If you choose to own the incoming request from a new contributor recieved via open channels, please follow up directly on the forum to inform not only the Contributor but the other Admins or Editors that you have completed the task. 
+_NOTE for the Editors:_ If you choose to own the incoming request from a new contributor recieved via open channels, please follow up directly on the forum to inform not only the Contributor but the other Admins or Editors that you have completed the task. 
 
 
 ### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
@@ -41,7 +41,7 @@ _NOTE for the Admins:_ If you choose to own the incoming request from a new cont
 
 7. Write a short email notifying the MP forum to to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com about your video or blog contribution. 
 
-8. Available Admins review your blog and approval to post by reviewer or a peer admin is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
+8. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
 ### Case 2: If blog post is a redirect to another URL (post content is not hosted at WP MP.io)
 
@@ -63,27 +63,27 @@ _NOTE for the Admins:_ If you choose to own the incoming request from a new cont
 
 9. Write a short email notifying the MP forum to to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com about your video or blog contribution. 
 
-The next steps apply to the admins.
+The next steps apply to the Editors.
 
-9. As an admin, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
+9. As an Editor, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
 
 10. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
 
 11. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
 
-12. Admin reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Admin needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
+12. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
 
-13. Admin must click on "Tools->Redirection" on the left margin of the console
+13. Editor must click on "Tools->Redirection" on the left margin of the console
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/selectToolsRedirection.png)
 
-14. Admin must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
+14. Editor must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/enterURLsForRedirection.png)
 
 15. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
 
-16. Admin must refresh website and test the redirect link
+16. Editor must refresh website and test the redirect link
 
 ### Criteria for approving blog posts
 
