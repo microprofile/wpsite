@@ -41,7 +41,7 @@ _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most wel
 
 6. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
-7. Write a short email notifying the MP forum to to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com about your video or blog contribution. 
+7. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: https://github.com/eclipse?utf8=%E2%9C%93&q=microprofile
 
 8. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
@@ -63,29 +63,29 @@ _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most wel
 
 8. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
-9. Write a short email notifying the MP forum to to microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com about your video or blog contribution. 
+9. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: https://github.com/eclipse?utf8=%E2%9C%93&q=microprofile
 
 The next steps apply to the Editors.
 
-9. As an Editor, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
+10. As an Editor, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
 
-10. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
+11. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
 
-11. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
+12. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
 
-12. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
+13. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
 
-13. Editor must click on "Tools->Redirection" on the left margin of the console
+14. Editor must click on "Tools->Redirection" on the left margin of the console
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/selectToolsRedirection.png)
 
-14. Editor must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
+15. Editor must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/enterURLsForRedirection.png)
 
-15. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
+16. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
 
-16. Editor must refresh website and test the redirect link
+17. Editor must refresh website and test the redirect link
 
 ### Criteria for approving blog posts
 
