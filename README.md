@@ -43,7 +43,8 @@ _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most wel
 
 7. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
-8. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: https://github.com/eclipse?utf8=%E2%9C%93&q=microprofile
+8. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
+* https://github.com/eclipse/microprofile-marketing/projects/2
 
 9. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
@@ -67,7 +68,8 @@ _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most wel
 
 9. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
-10. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: https://github.com/eclipse?utf8=%E2%9C%93&q=microprofile
+10. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
+* https://github.com/eclipse/microprofile-marketing/projects/2
 
 The next steps apply to the Editors.
 
@@ -95,7 +97,7 @@ The next steps apply to the Editors.
 
 The following are some of the criteria that the editor will use when reviewing your submitted blog post:
 
-* Ensure content of post is relevant and applicable to Microprofile
+* Ensure the content of post is relevant and applicable to Microprofile
 
 * Check that post has the author name
 
