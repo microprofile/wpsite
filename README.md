@@ -16,15 +16,16 @@ https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/
 
 Everyone in the community is encouraged to submit blogs and videos on MicroProfile.io. The process to submit a post is described below.
 
-_NOTE for the new Contributor:_ If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please send an email to:
-* microprofile@googlegroups.com AND cc'd microprofile-marketing@googlegroups.com 
-* Subject of email: *Request to be added as a WP MicroProfiler New Contributor*.
-* Content of email: Contributor's first and last name and preferred email as the content on your email request. 
-* Do keep in mind that we won't add group emails to WP MP. 
+_NOTE for the new Contributor:_ If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, *please write a git issue*:
+* https://github.com/eclipse/microprofile-marketing/issues
+** Subject of issue: *Request to be added as a WP MicroProfiler New Contributor*.
+** Content of issue: Contributor's first and last name and preferred email as the content on your email request. 
+**  Do keep in mind that we won't add group emails to WP MP. 
 
 _NOTE for the Editors:_ If you choose to own the incoming request from a new contributor recieved via open channels, please follow up directly on the forum to inform not only the Contributor but the other Editors that you are owning the task and will complete the follow up. 
 
-_NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most welcomed to help process. How?  Use the forum two emails above and state you would like to be an Editor. 
+_NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most welcomed to help process. How? Write an issue asking to adjust your Admin access from Contributor to Editor. 
+** https://github.com/eclipse/microprofile-marketing/issues
 
 
 ### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
@@ -44,7 +45,8 @@ _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most wel
 7. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
 8. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
-* https://github.com/eclipse/microprofile-marketing/projects/2
+* https://github.com/eclipse/microprofile-marketing/issues
+** OR https://github.com/eclipse/microprofile-marketing/projects/2
 
 9. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
@@ -68,8 +70,9 @@ _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most wel
 
 9. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
-10. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
-* https://github.com/eclipse/microprofile-marketing/projects/2
+10. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link:
+* https://github.com/eclipse/microprofile-marketing/issues
+** https://github.com/eclipse/microprofile-marketing/projects/2
 
 The next steps apply to the Editors.
 
