@@ -16,8 +16,9 @@ https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/
 
 Everyone in the community is encouraged to submit blogs and videos on MicroProfile.io. The process to submit a post is described below.
 
-_NOTE for the new Contributor:_ If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, *please write a git issue*:
-* https://github.com/eclipse/microprofile-marketing/issues
+_NOTE for the new Contributor:_ If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please write a git issue:
+
+*  https://github.com/eclipse/microprofile-marketing/issues
 ** Subject of issue: *Request to be added as a WP MicroProfiler New Contributor*.
 ** Content of issue: Contributor's first and last name and preferred email as the content on your email request. 
 **  Do keep in mind that we won't add group emails to WP MP. 
