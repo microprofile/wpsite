@@ -23,7 +23,7 @@ _NOTE for the new Contributor:_ If this is the first time you're submitting a bl
 ** Content of issue: Contributor's first and last name and preferred email as the content on your email request. 
 **  Do keep in mind that we won't add group emails to WP MP. 
 
-_NOTE for the Editors:_ If you choose to own the incoming request from a new contributor recieved via open channels, please follow up directly on the forum to inform not only the Contributor but the other Editors that you are owning the task and will complete the follow up. 
+_NOTE for the Editors:_ If you choose to own the incoming content git tickets from an old or new contributor, please follow up directly on the issue to not only inform the Contributor but the other other Editors that you will process the ticket.  
 
 _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most welcomed to help process. How? Write an issue asking to adjust your Admin access from Contributor to Editor. 
 ** https://github.com/eclipse/microprofile-marketing/issues
@@ -31,11 +31,13 @@ _NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most wel
 
 ### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
 
-1. Log in to the WordPress [console](https://microprofile.wpengine.com/wp-admin/) and enter your WordPress credentials (these were in an email you received when you were added to MicroProfile.io as a "contributor")
+1. Contributors are welcomed to make the best usage of drafting or droping the content directly in the MP Content folder:  https://drive.google.com/drive/folders/1yonVuzmgpH_Mr3WgoqQEYywoJJjOmKBD
+Doing so will ensure that copy/edit review is possible & happens in a 360 form directly via "Sugestive Mode" showing improvements Contributors approve before she/he imports to WordPress. 
+_If you choose to use the drive, go to step 8 instead of 2 first._ 
 
-2. On the left margin of the console, click on "Posts->Add New"
+2. Confirm you can _Log in_ to the WordPress [console](https://microprofile.wpengine.com/wp-admin/) and enter your WordPress credentials (these were in an email you received when you were added to MicroProfile.io as a "contributor")
 
-3. Write your new blog using the WordPress user interface
+3. On the left margin of the console, click on "Posts->Add New"
 
 4. Choose a category and enter tags on the right side of the screen in the “tags” box. (These are keywords related to the topic of your post).
 
