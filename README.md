@@ -1,31 +1,38 @@
 # MicroProfile.io WordPress site
 
-The https://MicroProfile.io site has been revamped to the WordPress (WP) platform for easier use and maintenance. To provide feedback on how to improve the new site, please use the GitHub issues tab above to enter your requests/suggestions.
+The https://MicroProfile.io site has been revamped to the WordPress (WP) platform for easier use and maintenance. 
+To provide feedback on how to improve the new site, please use the GitHub issues tab above to enter your requests/suggestions.
+
+## Interviewing New MicroProfilers OutReach
+
+JOIN THE FUN: As of June 2019, Onboarding Interview to introduce and welcome new MicroProfilers to our ecosystem is possible. 
+
+https://github.com/eclipse/microprofile-marketing/wiki/Interviewing-New-MicroProfilers 
 
 ### What is a WP-Contributor:
 
-Contributor: is somebody who can write and manage their own posts but *cannot* publish them
+Contributor: is somebody who can write and manage her/his own posts but *cannot* publish content
 
  https://codex.wordpress.org/Roles_and_Capabilities
 
-### The Editors who volunteer to get your videos & written content published: 
+### List of the Editors, who volunteer to get your content published: 
 
 https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
 
 ## About Contributor's blog & video posts
 
-Everyone in the community is encouraged to submit blogs and videos on MicroProfile.io. The process to submit a post is described below.
+Everyone in the community is encouraged to submit blogs and videos to MicroProfile.io. Two process are described below.
 
-_NOTE for the new Contributor:_ If this is the first time you're submitting a blog or setting up a post on MicroProfile.io to redirect to an existing blog, please write a git issue:
+_NOTE for the new Contributor:_ If this is the first time submitting content, please write a git issue:
 
 *  https://github.com/eclipse/microprofile-marketing/issues
 ** Subject of issue: *Request to be added as a WP MicroProfiler New Contributor*.
 ** Content of issue: Contributor's first and last name and preferred email as the content on your email request. 
-**  Do keep in mind that we won't add group emails to WP MP. 
+**  Do keep in mind that group emails won't gain access to MP Wordpress
 
-_NOTE for the Editors:_ If you choose to own the incoming content git tickets from an old or new contributor, please follow up directly on the issue to not only inform the Contributor but the other other Editors that you will process the ticket.  
+_NOTE for the WordPress sessoned Editors:_ If choosing to help on any content submission git, please follow up directly on the respective issue. 
 
-_NOTE for potential Editors:_ as of 12/12/18 28 Contributors.   You are most welcomed to help process. How? Write an issue asking to adjust your Admin access from Contributor to Editor. 
+_NOTE for potential new Editors:_ as of 12/12/18 28 Contributors.   You are most welcomed to help process. How? Write an issue asking to be added as an editor.
 ** https://github.com/eclipse/microprofile-marketing/issues
 
 
