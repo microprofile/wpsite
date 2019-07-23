@@ -19,7 +19,11 @@ Contributor: is somebody who can write and manage her/his own posts but *cannot*
 
 https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
 
-## About Contributor's blog & video posts
+### About WordPress Timezone
+
+Set time is UTC- Coordinated Universal time
+
+### About Contributor's blog & video posts
 
 Everyone in the community is encouraged to submit blogs and videos to MicroProfile.io. Two process are described below.
 
