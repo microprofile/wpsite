@@ -72,43 +72,45 @@ _If you choose to use the drive, go to step 8 instead of 2 first._
 
 3. In the "Enter title here" text field of the screen "Add New Post", copy and paste the title of the existing post
 
-4. Paste the URL of your blog post into the text box. This allows the admins to review your post to determine eligibility for posting on MicroProfile.io.
+4. Right sidebar: "Format" box. select "Link"
 
-5. Paste the first three lines of your blog post right below the URL you pasted in the previous step.
+5. add your URL for your blog post to "Link settings" (below content section) 
 
-6. On the right side of the screen, select a category and add tags to the post. Tags are keywords related to the topic of your article.
+6. Paste the first three lines of your blog post right below the URL you pasted in the previous step.
 
-7. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. 
+7. On the right side of the screen, select a category and add tags to the post. Tags are keywords related to the topic of your article.
 
-8. Scroll down to the Page Header Image and add image to your post, specially if you are contributing a video, a clip from it is valuable. 
+8. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. 
 
-9. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
+9. Scroll down to the Page Header Image and add image to your post, specially if you are contributing a video, a clip from it is valuable. 
 
-10. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link:
+10. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
+
+11. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link:
 * https://github.com/eclipse/microprofile-marketing/issues
 ** https://github.com/eclipse/microprofile-marketing/projects/2
 
 The next steps apply to the Editors.
 
-11. As an Editor, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
+12. As an Editor, log in to WordPress [console](https://microprofile.wpengine.com/wp-admin/).
 
-12. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
+13. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
 
-13. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
+14. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
 
-14. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
+15. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
 
-15. Editor must click on "Tools->Redirection" on the left margin of the console
+16. Editor must click on "Tools->Redirection" on the left margin of the console
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/selectToolsRedirection.png)
 
-16. Editor must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
+17. Editor must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
 
 ![alt text](https://github.com/microprofile/wpsite/blob/master/images/enterURLsForRedirection.png)
 
-17. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
+18. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
 
-18. Editor must refresh website and test the redirect link
+19. Editor must refresh website and test the redirect link
 
 ### Criteria for approving blog posts
 
