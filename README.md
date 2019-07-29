@@ -100,17 +100,8 @@ The next steps apply to the Editors.
 
 15. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
 
-16. Editor must click on "Tools->Redirection" on the left margin of the console
+16.  At this point, to approve for immediate or future scheduling, click on the "Publish" button
 
-![alt text](https://github.com/microprofile/wpsite/blob/master/images/selectToolsRedirection.png)
-
-17. Editor must enter the URLs in the “Source URL” (this is the "Permalink" displayed under the blog post Title textfield - take care to copy only the portion of the "Permalink" needed AND that the URL ends with a "/" character) and “Target URL” (URL that writer included as the first line in the body of the submitted blog post) text fields in the "Redirections" section of the screen. Then click on the button “Add Redirect”
-
-![alt text](https://github.com/microprofile/wpsite/blob/master/images/enterURLsForRedirection.png)
-
-18. Click on "All Posts" on the left margin of the console and click back on the appropriate blog post. At this point, to approve for immediate or future scheduling, click on the "Publish" button
-
-19. Editor must refresh website and test the redirect link
 
 ### Criteria for approving blog posts
 
