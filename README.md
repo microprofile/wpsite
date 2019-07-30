@@ -96,11 +96,9 @@ The next steps apply to the Editors.
 
 13. Click on "All Posts" on the left margin of the console and click on the appropriate blog post to review
 
-14. Cut and paste the URL that the submitter entered in the body of the post and open it up in a separate browser window.
+14. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
 
-15. Editor reviews the blog post for compliance to criteria (see "Criteria for approving blog posts" section below). If the post needs re-working, change the "Status" of the post to "Draft".  This will send the post back to the writer to correct and re-submit. Editor needs to follow this with an email to the writer with details on what needs to be corrected. If the post satisfies the compliance criteria, then continue to the next step.
-
-16.  At this point, to approve for immediate or future scheduling, click on the "Publish" button
+15.  At this point, to approve for immediate or future scheduling, click on the "Publish" button
 
 
 ### Criteria for approving blog posts
