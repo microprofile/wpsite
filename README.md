@@ -59,12 +59,15 @@ _If you choose to use the drive, go to step 8 instead of 2 first._
 7. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
 8. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
-* https://github.com/eclipse/microprofile-marketing/issues
-** OR https://github.com/eclipse/microprofile-marketing/projects/2
+
+  * https://github.com/eclipse/microprofile-marketing/issues
+  * OR https://github.com/eclipse/microprofile-marketing/projects/2
 
 9. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
 ### Case 2: If blog post is a redirect to another URL (post content is not hosted at WP MP.io)
+
+If any of the options described below are not visible to you, click "Screen Options" in the top-right of the window and make sure the relevant parts of the editor are displayed to you (some aren't displayed by default).
 
 1. Log in to the WordPress [console](https://microprofile.wpengine.com/wp-admin/) and enter your WordPress credentials (these were in an email you received when you were added to MicroProfile.io as a "contributor")
 
@@ -72,23 +75,21 @@ _If you choose to use the drive, go to step 8 instead of 2 first._
 
 3. In the "Enter title here" text field of the screen "Add New Post", copy and paste the title of the existing post
 
-4. Right sidebar: "Format" box. select "Link"
+4. Paste the first three lines of your blog post in the editor text box. This will be displayed below the title of your post on the main https://microprofile.io/blog/ page (followed by an automatically-added link to 'Read More'.
 
-5. add your URL for your blog post to "Link settings" (below content section) 
+5. Right sidebar: "Format" box, select "Link".
 
-6. Paste the first three lines of your blog post right below the URL you pasted in the previous step.
+6. Add your URL for your blog post to "Link settings" (below editor text box). This configures your post so that when a visitor clicks the post, they are redirected to the original blog post hosted at the URL you've entered.
 
 7. On the right side of the screen, select a category and add tags to the post. Tags are keywords related to the topic of your article.
 
 8. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. 
 
-9. Scroll down to the Page Header Image and add image to your post, specially if you are contributing a video, a clip from it is valuable. 
+9. Scroll down to the "Page Header Settings" widget and use "Page Header Image" to add the image to your post. If you are contributing a video, a clip from it is especially valuable. 
 
-10. Click on the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
+10. Click the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
-11. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link:
-* https://github.com/eclipse/microprofile-marketing/issues
-** https://github.com/eclipse/microprofile-marketing/projects/2
+11. Open an issue at the respective MP Github project requesting the new post review at https://github.com/eclipse/microprofile-marketing/issues. In the issue, provide a link to your WordPress post in the editor and any other relevant information related. (You can find the MP Github project board at https://github.com/eclipse/microprofile-marketing/projects/2)
 
 The next steps apply to the Editors.
 
