@@ -25,6 +25,7 @@ Set time is UTC- Coordinated Universal time
 
 ### About MicroProfile Trademarks
 
+If/When unsure, ask diretcly via the MP google forum. 
 The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the Eclipse MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution. https://www.eclipse.org/legal/logo_guidelines.php
 
 ### About Contributor's blog & video posts
