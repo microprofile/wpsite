@@ -23,6 +23,10 @@ https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/
 
 Set time is UTC- Coordinated Universal time
 
+### About MicroProfile Trademarks
+
+The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the Eclipse MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution. https://www.eclipse.org/legal/logo_guidelines.php
+
 ### About Contributor's blog & video posts
 
 Everyone in the community is encouraged to submit blogs and videos to MicroProfile.io. Two process are described below.
