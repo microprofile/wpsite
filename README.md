@@ -9,26 +9,26 @@ JOIN THE FUN: As of June 2019, Onboarding Interview to introduce and welcome new
 
 https://github.com/eclipse/microprofile-marketing/wiki/Interviewing-New-MicroProfilers 
 
-### What is a WP-Contributor:
+## What is a WP-Contributor:
 
 Contributor: is somebody who can write and manage her/his own posts but *cannot* publish content
 
  https://codex.wordpress.org/Roles_and_Capabilities
 
-### List of the Editors, who volunteer to get your content published: 
+## List of the Editors, who volunteer to get your content published: 
 
 https://docs.google.com/document/d/1q0Xw4XJcoVq1V5vPWe9KR__WKoGc0e-X5cD3tnBsIKw/edit
 
-### About WordPress Timezone
+## About WordPress Timezone
 
 Set time is UTC- Coordinated Universal time
 
-### About MicroProfile Trademarks
+## About MicroProfile Trademarks
 
 If/When unsure, ask diretcly via the MP google forum. 
 The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the Eclipse MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution. https://www.eclipse.org/legal/logo_guidelines.php
 
-### About Contributor's blog & video posts
+## About Contributor's blog & video posts
 
 Everyone in the community is encouraged to submit blogs and videos to MicroProfile.io. Two process are described below.
 
@@ -44,33 +44,47 @@ _NOTE for the WordPress sessoned Editors:_ If choosing to help on any content su
 _NOTE for potential new Editors:_ as of 12/12/18 28 Contributors.   You are most welcomed to help process. How? Write an issue asking to be added as an editor.
 ** https://github.com/eclipse/microprofile-marketing/issues
 
+## About MicroProfile reviews
 
-### Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
+MicroProfile, when asked do provide copy/edit and techical reviews for blogs, e-books and white papers.
 
-1. Contributors are welcomed to make the best usage of drafting or droping the content directly in the MP Content folder:  https://drive.google.com/drive/folders/1yonVuzmgpH_Mr3WgoqQEYywoJJjOmKBD
-Doing so will ensure that copy/edit review is possible & happens in a 360 form directly via "Sugestive Mode" showing improvements Contributors approve before she/he imports to WordPress. 
-_If you choose to use the drive, go to step 8 instead of 2 first._ 
+### If you need copy/edit review
 
-2. Confirm you can _Log in_ to the WordPress [console](https://microprofile.wpengine.com/wp-admin/) and enter your WordPress credentials (these were in an email you received when you were added to MicroProfile.io as a "contributor")
+Contributors are welcomed to make the best usage of drafting or droping the content directly in the MP Content folder:  https://drive.google.com/drive/folders/1yonVuzmgpH_Mr3WgoqQEYywoJJjOmKBD
+Doing so will ensure that copy/edit review is possible & happens in a 360 form directly via "Sugestive Mode" showing improvements Contributors approve before she/he imports to WordPress.
 
-3. On the left margin of the console, click on "Posts->Add New"
+[Open a git issue](https://github.com/eclipse/microprofile-marketing/issues/new) requesting the new post review. Don't forget to inform the link of your document.
 
-4. Choose a category and enter tags on the right side of the screen in the “tags” box. (These are keywords related to the topic of your post).
+### If you need technical review
 
-5. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. 
+You need to drop your content on GitHub and allow for PR reviews.
+After your repository is set-up you have to ask for help in MicroProfile [general forum](https://groups.google.com/g/microprofile).
 
-6. Scroll down to the Page Header Image and add image to your post, specially if you are contributing a video, a clip from it is valuable. 
 
-7. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
+Also, it is helpful for the author to join the MP Community call before sending that email to make sure that many are aware of it before the email arrives to the forum.
 
-8. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
+## Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
+
+1. Confirm you can _Log in_ to the WordPress [console](https://microprofile.wpengine.com/wp-admin/) and enter your WordPress credentials (these were in an email you received when you were added to MicroProfile.io as a "contributor")
+
+2. On the left margin of the console, click on "Posts->Add New"
+
+3. Choose a category and enter tags on the right side of the screen in the “tags” box. (These are keywords related to the topic of your post).
+
+4. Scroll down to the "Feature Image" widget and upload an image by clicking on the "Set feature image" link. The image should be between 1600px - 2000px wide and have a minimum height of 500px for best results. 
+
+5. Scroll down to the Page Header Image and add image to your post, specially if you are contributing a video, a clip from it is valuable. 
+
+6. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
+
+7. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
 
   * https://github.com/eclipse/microprofile-marketing/issues
   * OR https://github.com/eclipse/microprofile-marketing/projects/2
 
-9. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
+8. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
-### Case 2: If blog post is a redirect to another URL (post content is not hosted at WP MP.io)
+## Case 2: If blog post is a redirect to another URL (post content is not hosted at WP MP.io)
 
 If any of the options described below are not visible to you, click "Screen Options" in the top-right of the window and make sure the relevant parts of the editor are displayed to you (some aren't displayed by default).
 
@@ -107,7 +121,7 @@ The next steps apply to the Editors.
 15.  At this point, to approve for immediate or future scheduling, click on the "Publish" button
 
 
-### Criteria for approving blog posts
+## Criteria for approving blog posts
 
 The following are some of the criteria that the editor will use when reviewing your submitted blog post:
 
