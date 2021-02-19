@@ -26,7 +26,7 @@ Set time is UTC- Coordinated Universal time
 ## About MicroProfile Trademarks
 
 If/When unsure, ask diretcly via the MP google forum. 
-The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the Eclipse MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution. https://www.eclipse.org/legal/logo_guidelines.php
+The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution. https://www.eclipse.org/legal/logo_guidelines.php
 
 ## About Contributor's blog & video posts
 
@@ -127,7 +127,9 @@ The following are some of the criteria that the editor will use when reviewing y
 
 * Ensure the content of post is relevant and applicable to Microprofile
 
-* Check that post has the author name
+* Check that content has the author(s) name
+
+* Check that the content provides credit to collaborators
 
 * Check that post has a “Page Header Image”
 
