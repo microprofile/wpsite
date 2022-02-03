@@ -25,43 +25,31 @@ Set time is UTC- Coordinated Universal time
 
 ## About MicroProfile Trademarks
 
-If/When unsure, ask diretcly via the MP google forum. 
-The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution. https://www.eclipse.org/legal/logo_guidelines.php
+If/When unsure, ask diretcly via the MP Marketing google forum: https://groups.google.com/g/microprofile-marketing
+
+The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution via https://www.eclipse.org/legal/logo_guidelines.php
 
 ## About Contributor's blog & video posts
+
+https://github.com/eclipse/microprofile-marketing/issues/new?assignees=&labels=Blog&template=Contributing+Blog+Content.md&title=%5BBlog+Contribution%5D+Name+of+blog
 
 Everyone in the community is encouraged to submit blogs and videos to MicroProfile.io. Two process are described below.
 
 _NOTE for the new Contributor:_ If this is the first time submitting content, please write a git issue:
 
-*  https://github.com/eclipse/microprofile-marketing/issues
-** Subject of issue: *Request to be added as a WP MicroProfiler New Contributor*.
-** Content of issue: Contributor's first and last name and preferred email as the content on your email request. 
-**  Do keep in mind that group emails won't gain access to MP Wordpress
-
 _NOTE for the WordPress sessoned Editors:_ If choosing to help on any content submission git, please follow up directly on the respective issue. 
-
-_NOTE for potential new Editors:_ as of 12/12/18 28 Contributors.   You are most welcomed to help process. How? Write an issue asking to be added as an editor.
-** https://github.com/eclipse/microprofile-marketing/issues
 
 ## About MicroProfile reviews
 
 MicroProfile, when asked do provide copy/edit and techical reviews for blogs, e-books and white papers.
 
-### If you need copy/edit review
+### If you need Tehcnical/Copy/Edit review
 
-Contributors are welcomed to make the best usage of drafting or droping the content directly in the MP Content folder:  https://drive.google.com/drive/folders/1yonVuzmgpH_Mr3WgoqQEYywoJJjOmKBD
-Doing so will ensure that copy/edit review is possible & happens in a 360 form directly via "Sugestive Mode" showing improvements Contributors approve before she/he imports to WordPress.
+Contributors are welcomed to make the best usage of drafting content directly in the MP Content folder:  https://drive.google.com/drive/folders/1yonVuzmgpH_Mr3WgoqQEYywoJJjOmKBD
+Doing so will ensure that copy/edit review is possible & happens in a 360 form directly via "Sugestive Mode" showing improvements Contributors approve before she/he imports content to WordPress.
 
-[Open a git issue](https://github.com/eclipse/microprofile-marketing/issues/new) requesting the new post review. Don't forget to inform the link of your document.
+[Open a git issue](https://github.com/eclipse/microprofile-marketing/issues/new) requesting the new post review. 
 
-### If you need technical review
-
-You need to drop your content on GitHub and allow for PR reviews.
-After your repository is set-up you have to ask for help in MicroProfile [general forum](https://groups.google.com/g/microprofile).
-
-
-Also, it is helpful for the author to join the MP Community call before sending that email to make sure that many are aware of it before the email arrives to the forum.
 
 ## Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
 
@@ -77,10 +65,9 @@ Also, it is helpful for the author to join the MP Community call before sending 
 
 6. When done entering your blog post, click on the “Submit for Review” button. This will effectively put the blog post on the WP blog inbox for all WP admins. As a writer, you are done at this point.
 
-7. Open an issue at the respective MP Github project requesting the new post review. Please, your WordPress post link created and any other relevant information related. You can find the respective MP Github project by using the following link: 
+7. Open an issue at the respective MP Github project requesting the new post review.
 
   * https://github.com/eclipse/microprofile-marketing/issues
-  * OR https://github.com/eclipse/microprofile-marketing/projects/2
 
 8. Available Editors review your blog and approval to post by reviewer or a peer Editor is contengeant on "suggestive edits".  If your post needs copy/editing, you will receive a notification so that you can edit your post with the necessary corrections and re-submit. 
 
@@ -108,7 +95,7 @@ If any of the options described below are not visible to you, click "Screen Opti
 
 10. Click the “Submit for Review” button. This will effectively put the blog post on the WordPress blog inbox for all WordPress admins. As a writer, you are done at this point.
 
-11. Open an issue at the respective MP Github project requesting the new post review at https://github.com/eclipse/microprofile-marketing/issues. In the issue, provide a link to your WordPress post in the editor and any other relevant information related. (You can find the MP Github project board at https://github.com/eclipse/microprofile-marketing/projects/2)
+11. Open an issue at the respective MP Github project requesting the new post review at https://github.com/eclipse/microprofile-marketing/issues. In the issue, provide a link to your WordPress post in the editor and any other relevant information related. 
 
 The next steps apply to the Editors.
 
