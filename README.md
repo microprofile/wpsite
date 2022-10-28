@@ -1,15 +1,15 @@
 # MicroProfile.io WordPress site
 
-The https://MicroProfile.io site has been revamped to the WordPress (WP) platform for easier use and maintenance. 
-To provide feedback on how to improve the new site, please use the GitHub issues tab above to enter your requests/suggestions.
+The https://MicroProfile.io site uses WordPress (WP).
+To provide feedback on website improvements submit github issues https://github.com/eclipse/microprofile-marketing/issues 
 
-## Interviewing New MicroProfilers OutReach
+## Interviewing New MicroProfilers OutReach Activity
 
 JOIN THE FUN: As of June 2019, Onboarding Interview to introduce and welcome new MicroProfilers to our ecosystem is possible. 
 
-https://github.com/eclipse/microprofile-marketing/wiki/Interviewing-New-MicroProfilers 
+https://github.com/eclipse/microprofile-marketing/wiki/Sharing:--The-Onboarding-Into-MicroProfile-Interview-Series
 
-## What is a WP-Contributor:
+## What is a WordPress Contributor
 
 Contributor: is somebody who can write and manage her/his own posts but *cannot* publish content
 
@@ -27,28 +27,27 @@ Set time is UTC- Coordinated Universal time
 
 If/When unsure, ask diretcly via the MP Marketing google forum: https://groups.google.com/g/microprofile-marketing
 
-The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse Logos & Trademarks.  Please note proper notice and attribution via https://www.eclipse.org/legal/logo_guidelines.php
+The use of Eclipse Foundation trademarks outside of the immediate scope of the open source project (e.g. the use of the MicroProfile name or logo in a book or publication) is subject to the terms of the Guidelines for Eclipse FOundation Logos & Trademarks. https://www.eclipse.org/legal/logo_guidelines.php
 
 ## About Contributor's blog & video posts
 
 https://github.com/eclipse/microprofile-marketing/issues/new?assignees=&labels=Blog&template=Contributing+Blog+Content.md&title=%5BBlog+Contribution%5D+Name+of+blog
 
-Everyone in the community is encouraged to submit blogs and videos to MicroProfile.io. Two process are described below.
+Everyone in the community is encouraged to submit blogs, webinars, conference sessions and videos to MicroProfile.io. Two process are described below.
 
 _NOTE for the new Contributor:_ If this is the first time submitting content, please write a git issue:
 
-_NOTE for the WordPress sessoned Editors:_ If choosing to help on any content submission git, please follow up directly on the respective issue. 
+_NOTE for the WordPress sessoned Editors:_ If choosing to help on any content submission git, please use the git issue. 
 
-## About MicroProfile reviews
+## About MicroProfile Content Reviews
 
-MicroProfile, when asked do provide copy/edit and techical reviews for blogs, e-books and white papers.
+### If you need/want help with Tehcnical/Grammar/Copy/Edit Review
 
-### If you need Tehcnical/Copy/Edit review
+Contributors are welcomed to make the best usage of drafting content directly in the MP Content folder:  [blog folder](https://drive.google.com/drive/folders/1yonVuzmgpH_Mr3WgoqQEYywoJJjOmKBD)
 
-Contributors are welcomed to make the best usage of drafting content directly in the MP Content folder:  https://drive.google.com/drive/folders/1yonVuzmgpH_Mr3WgoqQEYywoJJjOmKBD
-Doing so will ensure that copy/edit review is possible & happens in a 360 form directly via "Sugestive Mode" showing improvements Contributors approve before she/he imports content to WordPress.
+Doing so will ensure that copy/edit review is possible via "Sugestive Mode".  
 
-[Open a git issue](https://github.com/eclipse/microprofile-marketing/issues/new) requesting the new post review. 
+[Open a git issue](https://github.com/eclipse/microprofile-marketing/issues/new) and request the new post review. 
 
 
 ## Case 1: You plan to write and host your post on the MicroProfile.io site, i.e. blog post is NOT a redirect to another existing blog URL
