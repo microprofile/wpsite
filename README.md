@@ -23,7 +23,7 @@ Contributor: is somebody who can write and manage her/his own posts but *cannot*
 
 Set time is UTC- Coordinated Universal time
 
-## About Contributor's blog & video posts
+## About Contributor's Content
 
 Everyone is encouraged to submit blogs, webinars, conference sessions, videos... etc to MicroProfile.io. There are two processes.
 
